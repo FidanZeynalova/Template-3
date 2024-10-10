@@ -1,0 +1,10 @@
+@media (max-width: 576px) {
+    .lists{
+        display: none;
+    }
+    .fa-bars{
+        display: flex;
+     
+
+    }
+}
